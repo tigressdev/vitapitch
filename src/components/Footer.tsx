@@ -36,7 +36,7 @@ export function Footer() {
               Solicitar acesso early access
             </a>
             <a
-              href="https://vitacodex.life"
+              href="https://vitacodex.life/index/"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-full border border-white/20 px-8 py-4 text-sm font-medium text-white/75 transition hover:border-white/40 hover:text-white"
@@ -59,7 +59,7 @@ export function Footer() {
           </div>
 
           <div className="flex items-center gap-6 text-xs text-white/40">
-            <a href="https://vitacodex.life" target="_blank" rel="noopener noreferrer" className="hover:text-white/70 transition-colors">
+            <a href="https://demoapp.vitacodex.life/demoapp/home" target="_blank" rel="noopener noreferrer" className="hover:text-white/70 transition-colors">
               vitacodex.life
             </a>
             <span>·</span>

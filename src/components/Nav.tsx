@@ -29,6 +29,7 @@ export function Nav() {
             { href: '#demo', label: 'Demo' },
             { href: '#how-it-works', label: 'Como funciona' },
             { href: '#business', label: 'Negócio' },
+            { href: '#journey', label: 'Origem' },
           ].map(({ href, label }) => (
             <a
               key={href}

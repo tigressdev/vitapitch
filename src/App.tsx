@@ -4,6 +4,7 @@ import { TickerBar } from './components/TickerBar';
 import { TransformDemo } from './components/TransformDemo';
 import { HowItWorks } from './components/HowItWorks';
 import { Business } from './components/Business';
+import { Journey } from './components/Journey';
 import { Footer } from './components/Footer';
 
 export function App() {
@@ -32,6 +33,7 @@ export function App() {
       <TransformDemo />
       <HowItWorks />
       <Business />
+      <Journey />
       <Footer />
     </div>
   );

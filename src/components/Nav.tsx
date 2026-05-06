@@ -42,7 +42,7 @@ export function Nav() {
         </nav>
 
         <a
-          href="https://demoapp.vitacodex.life/demoapp/"
+          href="https://demoapp.vitacodex.life/"
           className="rounded-full bg-emerald-400 px-5 py-2.5 text-sm font-semibold text-black transition hover:bg-emerald-300 hover:shadow-[0_0_24px_rgba(52,211,153,.5)]"
         >
           Ver demo ao vivo

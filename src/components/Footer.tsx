@@ -59,7 +59,7 @@ export function Footer() {
           </div>
 
           <div className="flex items-center gap-6 text-xs text-white/40">
-            <a href="https://demoapp.vitacodex.life/demoapp/home" target="_blank" rel="noopener noreferrer" className="hover:text-white/70 transition-colors">
+            <a href="https://demoapp.vitacodex.life/" target="_blank" rel="noopener noreferrer" className="hover:text-white/70 transition-colors">
               vitacodex.life
             </a>
             <span>·</span>
@@ -67,7 +67,7 @@ export function Footer() {
               contato@vitacodex.life
             </a>
             <span>·</span>
-            <span>© 2025 VitaCodex</span>
+            <span>© 2026 VitaCodex</span>
           </div>
 
           {/* Tagline pill */}
